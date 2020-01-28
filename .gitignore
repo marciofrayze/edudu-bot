@@ -31,3 +31,4 @@ gradle
 gradlew.bat
 .gradle
 build
+.gradletasknamecache
